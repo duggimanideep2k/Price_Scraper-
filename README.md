@@ -84,9 +84,6 @@ The scraped product details will be stored in a **CSV file** (`adidas_originals_
 | AJIO     | Adidas Originals Trefoil T-Shirt       | ₹1,799    |
 | Adidas   | Adidas Adicolor Classics 3-Stripes Tee | ₹1,699    |
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
