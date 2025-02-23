@@ -1,4 +1,3 @@
-Certainly! Here's the full **README.md** file that you can copy directly into your GitHub repository:
 
 ```markdown
 # Adidas T-Shirt Price Scraper
